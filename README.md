@@ -1,2 +1,0 @@
-# qipai
-gameqipai
